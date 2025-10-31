@@ -20,9 +20,9 @@
     sudo apt install g++
 ```
 ## Add Extention: 
-### - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
-### - [C/C++ Extension pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack)
-### - [C/C++ Runner](https://marketplace.visualstudio.com/items?itemName=franneck94.c-cpp-runner)
+ - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
+ - [C/C++ Extension pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack)
+ - [C/C++ Runner](https://marketplace.visualstudio.com/items?itemName=franneck94.c-cpp-runner)
 
 ## 🧱 4. Create and Save a C++ File
 ## Save it as <i>main.cpp<i>
