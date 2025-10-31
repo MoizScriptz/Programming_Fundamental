@@ -25,7 +25,7 @@
 ### - [C/C++ Runner](https://marketplace.visualstudio.com/items?itemName=franneck94.c-cpp-runner)
 
 ## 🧱 4. Create and Save a C++ File
-## Save it as <strong>main.cpp<strong>
+## Save it as <i>main.cpp<i>
 
 ```
 #include <iostream>
