@@ -7,8 +7,10 @@ using namespace std;
 
 int main(){
     int num01, num02, sum;
-    num01 = 15;
-    num02 = 20;
+    cout << "Enter first number: ";
+    cin >> num01;
+    cout << "Enter second number: ";
+    cin >> num02;   
     sum = num01 + num02;
 
     cout << "The sum is:" << sum << endl;
